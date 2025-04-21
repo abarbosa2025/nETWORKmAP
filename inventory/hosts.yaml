@@ -1,6 +1,6 @@
 R1:
-  hostname: 1.1.1.1
-  username: cisco
-  password: cisco
+  hostname: 10.156.222.210
+  username: abarbosa
+  password: Dacia_2021
   platform: cisco_ios
   port:     22
